@@ -1,13 +1,14 @@
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6c54n3NbWu2QPczpnh3Fhh8cySOFQbfcymA&usqp=CAU
+<img alt="coding gif" align="center" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
 <h1 align="center">Hi 👋, I'm Shavaiz ALi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="rigth" width="400" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU"
-
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl10Sbnp8RiM1cp_d7hL76ljOoE8Uazj-YhBorcAbgrZtOWPCC2JxsfhfI91Tn1pOdLOU&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shavaiz-ali&label=Profile%20views&color=0e75b6&style=flat" alt="shavaiz-ali" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shavaiz ali" target="blank"><img src="https://img.shields.io/twitter/follow/shavaiz ali?logo=twitter&style=for-the-badge" alt="shavaiz ali" /></a> </p>
 
 - 🌱 I’m currently learning **React.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shavaiz-Ali/My-Portfolio.git](https://github.com/Shavaiz-Ali/My-Portfolio.git)
 
 - 💬 Ask me about **HTML5,CSS3,Bootstrap**
 
