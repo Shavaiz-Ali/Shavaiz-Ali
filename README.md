@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shavaiz23880843" target="blank"><img src="https://img.shields.io/twitter/follow/shavaiz23880843?logo=twitter&style=for-the-badge" alt="shavaiz23880843" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js / Vue.js / Wordpress / Elementorntor**
+- 🌱 I’m currently learning **Next.js /Vue.js / TypeScript / Wordpress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shavaiz-Ali](https://github.com/Shavaiz-Ali)
 
