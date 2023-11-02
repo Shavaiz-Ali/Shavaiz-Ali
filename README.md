@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/shavaiz23880843" target="blank"><img src="https://img.shields.io/twitter/follow/shavaiz23880843?logo=twitter&style=for-the-badge" alt="shavaiz23880843" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js /Vue.js / TypeScript / Wordpress**
+- 🌱 I’m currently learning **Mern Stack Development/ TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shavaiz-Ali](https://github.com/Shavaiz-Ali)
 
-- 💬 Ask me about **HTMl5/CSS3/Bootstrap/TailwindCSS/Javascript/React.js**
+- 💬 Ask me about **HTMl5/CSS3/Bootstrap/TailwindCSS/Javascript/React.js/Next.js**
 
 - 📫 How to reach me **shavaizali159@gmail.com**
 
-- ⚡ Fun fact **I think I am a Problem Solver**
+- ⚡ Fun fact **I Hate Coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
