@@ -68,9 +68,8 @@
 
 ## 🐍 Contribution Snake Animation
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Shavaiz-Ali/Shavaiz-Ali/70d918f4690f5afc67120ab23d6701ed78f47231/github-contribution-grid-snake-dark.svg"/>
-</div>
+
+<img src="https://raw.githubusercontent.com/Shavaiz-Ali/Shavaiz-Ali/output/snake.svg" alt="Snake animation" />
 
 
 ---
