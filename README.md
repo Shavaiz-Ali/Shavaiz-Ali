@@ -3,14 +3,14 @@
   <img src="https://your-banner-url.com/banner.png" alt="Banner Image" width="100%" />
 </p>
 
-<h1 align="center">Hi there! I'm <a href="https://github.com/yourusername">Your Name</a> 👋</h1>
+<h1 align="center">Hi there! I'm <a href="https://github.com/yourusername">Shavaiz Ali</a> 👋</h1>
 
 <p align="center">
   <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Shavaiz-Ali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   </a>
   <a href="https://github.com/yourusername?tab=followers">
-    <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/Shavaiz-Ali?label=Followers&style=social" alt="GitHub Followers">
   </a>
 </p>
 
@@ -70,6 +70,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shavaiz-Ali&show_icons=true&theme=radical" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shavaiz-Ali&theme=radical" height="170px"/>
 </p>
