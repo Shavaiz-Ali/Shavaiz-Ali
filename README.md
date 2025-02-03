@@ -2,7 +2,7 @@
 
 ###
 
-<div align="center">
+<div align="center" style="display:flex; flex-direction:"column">
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  style="width:100%; height:100%; display:"block; " />
   
 <div>
