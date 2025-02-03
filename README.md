@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Shavaiz Ali, a passionate front-end developer based in Pakistan</h2>
 <div align="center">
-<img height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img  src="https://i.imgflip.com/65efzo.gif"  style="width:100%; height:100%;"/>
   
 </div>
 
