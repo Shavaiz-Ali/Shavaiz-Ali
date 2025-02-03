@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://your-banner-url.com/banner.png](https://media.licdn.com/dms/image/v2/D4D16AQGL2apYnsp2iw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1684801251709?e=1744243200&v=beta&t=CSvtiQ18lAkt5y9vWzJMvYyX8Uz9L3dWEYNdvIf9kGg)" alt="Banner Image" width="100%" />
+  <img src="https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif" alt="Banner Image" width="100%" />
 </p>
 
 <h1 align="center">Hi there! I'm <a href="https://github.com/yourusername">Shavaiz Ali</a> 👋</h1>
