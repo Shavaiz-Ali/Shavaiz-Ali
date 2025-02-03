@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Banner Image" width="100%" height="520" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Banner Image" width="100%" height="620" />
 </p>
 
 <h1 align="center">Hi there! I'm <a href="https://github.com/yourusername">Shavaiz Ali</a> 👋</h1>
