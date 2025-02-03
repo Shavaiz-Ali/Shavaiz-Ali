@@ -65,6 +65,14 @@
   <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Shavaiz-Ali/Shavaiz-Ali/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ---
 
 ## 📊 GitHub Stats
