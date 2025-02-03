@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/fl3jw1xFrpmxGUrWzS/200.webp?cid=ecf05e47gl52blivnwquym1acnpo8tt6acp3mbtfan2zazd3&ep=v1_gifs_search&rid=200.webp&ct=g" alt="Banner Image" width="100%" height="520" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Banner Image" width="100%" height="520" />
 </p>
 
 <h1 align="center">Hi there! I'm <a href="https://github.com/yourusername">Shavaiz Ali</a> 👋</h1>
