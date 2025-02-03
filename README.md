@@ -1,8 +1,12 @@
 <h2 align="left">Hi 👋! My name is Shavaiz Ali a passionate front-end developer based in Pakistan</h2>
+<div>
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  style="width:100%; height:100%; display:"block; " />
+ 
+</div>
 
 ###
 
-<div align="center" style="display:flex;>
+<div align="center">
     
 <img 
   src="https://github-readme-stats.vercel.app/api?username=Shavaiz-Ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
@@ -14,7 +18,6 @@
  </div>
 
 ###
-
 
 ###
 
