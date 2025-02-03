@@ -2,7 +2,7 @@
   Hi 👋! My name is Shavaiz Ali, a passionate front-end developer based in Pakistan
 </h2>
 
-<div>
+<div align="center" style="width:100%;">
   <img 
     align="center" 
     src="https://i.imgflip.com/65efzo.gif" 
@@ -16,13 +16,13 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Shavaiz-Ali&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" 
     alt="GitHub Stats"
-    style="width: 100%; height: auto; max-width: 600px;"
+    style="width: 100%; height: auto; max-width: 100%;"
   />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Shavaiz-Ali&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" 
     alt="Languages Graph"
-    style="width: 100%; height: auto; max-width: 600px;"
+    style="width: 100%; height: auto; max-width: 100%;"
   />
 </div>
 
