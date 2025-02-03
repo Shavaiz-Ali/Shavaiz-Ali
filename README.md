@@ -6,7 +6,7 @@
 <h1 align="center">Hi there! I'm <a href="https://github.com/yourusername">Shavaiz Ali</a> 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Shavaiz-Ali">
     <img src="https://komarev.com/ghpvc/?username=Shavaiz-Ali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
   </a>
   <a href="https://github.com/yourusername?tab=followers">
