@@ -1,6 +1,6 @@
 <div>
   <img 
-    src="https://github.com/Gemini_Generated_Image_r460ulr460ulr460.png" 
+    src="./Gemini_Generated_Image_r460ulr460ulr460.png" 
     alt="GitHub Header"
   />
 
