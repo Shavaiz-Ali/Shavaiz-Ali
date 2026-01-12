@@ -18,7 +18,7 @@
 
 
   <!-- Buy Me a Coffee -->
-  <a href="https://buymeacoffee.com/Shavaiz-Ali" target="_blank">
+  <a href="https://buymeacoffee.com/shavaizali" target="_blank">
     <img 
       src="https://miro.medium.com/v2/resize:fit:1090/0*lHgOW3tB_MfDAlBf.png" 
       width="120"
