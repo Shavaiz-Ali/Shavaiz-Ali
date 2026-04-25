@@ -2,7 +2,7 @@
   <img 
     src="./Gemini_Generated_Image_r460ulr460ulr460.png" 
     alt="GitHub Header"
-  />
+  /> 
 
   <h3>Hi there 👋</h3>
   <h1>I'm <strong>Shavaiz Ali</strong></h1>
